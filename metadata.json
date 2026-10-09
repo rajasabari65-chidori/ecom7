@@ -1,0 +1,8 @@
+{
+  "name": "OptiMart AI",
+  "description": "Shop Smarter. Sell Better. Waste Less. AI-Powered Smart Surplus Marketplace, Price Guardian & Smart Cart Optimization Platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
